@@ -1,0 +1,31 @@
+﻿<Properties StartupConfiguration="{C97C01E5-1FBD-AE84-99C2-E27B9B2C5988}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Creature/Brain.cs">
+    <Files>
+      <File FileName="Assets/Creature/CreatureController.cs" Line="22" Column="31" />
+      <File FileName="Assets/Creature/NewClass.cs" Line="17" Column="1" />
+      <File FileName="Assets/Creature/NewEnumeration.cs" Line="17" Column="37" />
+      <File FileName="Assets/Creature/CreatureAction/NewMonoBehaviour.cs" Line="17" Column="6" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="LifeLikeAI" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="Creature" expanded="True">
+                <Node name="CreatureAction" expanded="True" />
+                <Node name="Brain.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="5480e36a-1b00-4677-b796-2c678af2db9d" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
